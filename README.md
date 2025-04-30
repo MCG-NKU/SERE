@@ -129,7 +129,7 @@ by using the codebase of [MAE](https://github.com/facebookresearch/mae).
 
 For downstream tasks, 
 e.g., semantic segmentation, 
-PLease refer to [iBOT](https://github.com/bytedance/ibot). 
+please refer to [iBOT](https://github.com/bytedance/ibot). 
 
 Addentionally, we also use [ImageNetSegModel](https://github.com/LUSSeg/ImageNetSegModel/tree/main) 
 to implement semi-supevised semantic segmentation on [ImageNet-S dataset](https://github.com/LUSSeg/ImageNet-S).
